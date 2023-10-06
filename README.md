@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**SleekAssassin35/SleekAssassin35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### TolgahanTurhan
 
-Here are some ideas to get you started:
+[![Discord](https://img.shields.io/discord/340568729634996225?label=Discord&logo=Discord)][discord]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![My stats](https://github-readme-stats.vercel.app/api?username=utkuali&show_icons=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkuali&layout=compact)
+
+### Connect with me:
+
+[<img align="left" alt="TolgahanTurhan | Twitch" width="44px" src="https://img.icons8.com/fluent/2x/twitch.png" />][twitch]
+[<img align="left" alt="TolgahanTurhan| Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
+[<img align="left" alt="TolgahanTurhan | Youtube" width="44px" src="https://img.icons8.com/color/2x/youtube-play.png" />][youtube]
+[<img align="left" alt="TolgahanTurhan | Instagram" width="44px" src="https://i.ibb.co/tz8skHM/icons8-instagram-48.png" />][instagram]
+
+<br />
+
+[discord]: https://discord.gg/khF2VavmNg
+[instagram]: https://www.instagram.com/tolgahan.exe/
+[twitch]: https://www.twitch.tv/sleekassasssin
+[youtube]: https://oblivioncodetr.com/
