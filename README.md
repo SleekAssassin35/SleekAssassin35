@@ -5,7 +5,7 @@
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=SleekAssassin35&show_icons=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkuali&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SleekAssassin35&layout=compact)
 
 ### Connect with me:
 
